@@ -1,0 +1,5 @@
+Segment,Customers,AvgAge,AvgIncome,AvgRecencyDays,AvgOrders,AvgTotalSpend,TotalRevenue,PctCustomers,PctRevenue,TopCategory
+Champions,240,37.7,95327.1,14.6,27.9,4373.3,1049584.5,20.0,73.6,Electronics
+Loyal Regulars,364,28.5,44960.4,41.8,12.1,667.4,242943.4,30.3,17.0,Sports
+At Risk,296,52.1,68635.1,120.4,4.0,359.4,106374.0,24.7,7.5,Home & Kitchen
+Lost / Low Value,300,33.6,34690.0,216.7,2.1,87.6,26270.9,25.0,1.8,Electronics
